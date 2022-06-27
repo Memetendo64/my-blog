@@ -1,0 +1,27 @@
+@font-face {
+  font-family: snesfont;
+  src: url(https://snes-emulator.ngamer64.repl.co/CSS/snes-font.ttf);
+}
+
+body{
+  font-family: monospace;
+  color: white;
+  background-color: #301934;
+}
+
+h1, h2, h3, p{
+  font-family: monospace;
+}
+
+.social-media{
+  text-align: center;
+}
+
+article {
+  background: #301934;
+  border: 3px solid #a0a0a0;
+  width: 65%;
+  margin: 20px auto;
+  border-radius: 10px;
+  padding: 10px;
+}
